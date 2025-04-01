@@ -31,7 +31,7 @@ UIDesktop is a native macOS application that provides a fullscreen, streamlined 
 ❌ **Windows/Linux** – Not supported yet, but if this project gains enough traction, a Windows/Linux version using Electron might be developed in the future.  
 
 ## Installation  
-1. Download the latest release from [GitHub Releases](#) (link when available).  
+1. Download the latest release from the GitHub Releases.  
 2. Move the app to your Applications folder.  
 3. Open the app and log in to your Unifi account.  
 
