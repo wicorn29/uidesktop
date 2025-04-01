@@ -38,7 +38,7 @@ UIDesktop is a native macOS application that provides a fullscreen, streamlined 
 ## Roadmap  
 - [ ] Auto-update support  
 - [ ] Configurable settings  
-- [ ] Clearing cookies option  
+- [x] Clearing cookies option  
 - [ ] Potential Windows version  
 - [ ] Potential Linux version  
 
