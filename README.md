@@ -33,10 +33,16 @@ UIDesktop is a native macOS application that provides a fullscreen, streamlined 
 ## Installation  
 1. Download the latest release from the GitHub Releases.  
 2. Move the app to your Applications folder.  
-3. Open the app and log in to your Unifi account.  
+3. Open the app and log in to your Unifi account.
+
+ ## Update Instructions
+1. Download the latest release.
+2. Open the `.dmg` file and drag the app into your **Applications** folder.
+3. Your Mac will ask you if you want to overide the previous version, click "Replace"
+
 
 ## Roadmap  
-- [ ] Auto-update support  
+- [x] Auto-update support  
 - [ ] Configurable settings  
 - [x] Clearing cookies option  
 - [ ] Potential Windows version  
